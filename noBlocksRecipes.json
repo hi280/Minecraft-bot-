@@ -1,0 +1,47 @@
+{
+    "stone": {
+        "sources": ["cobblestone"],
+        "time": 0,
+        "level": 0
+    },
+    "sand": {
+        "sources": ["sand", "red_sand"],
+        "time": 0,
+        "level": 0
+    },
+    "red_sand": {
+        "sources": ["sand", "red_sand"],
+        "time": 0,
+        "level": -1
+    },
+    "gold_ore": {
+        "sources": ["gold_ore"],
+        "time": 0,
+        "level": 2
+    },
+    "iron_ore": {
+        "sources": ["iron_ore"],
+        "time": 0,
+        "level": 1
+    },
+    "log": {
+        "sources": ["log"],
+        "time": 0,
+        "level": -1
+    },
+    "cobblestone": {
+        "sources": ["stone"],
+        "time": 0,
+        "level": 0
+    },
+    "diamond": {
+        "sources": ["diamond_ore"],
+        "time": 0,
+        "level": 2
+    },
+    "coal": {
+        "sources": ["coal_ore"],
+        "time": 0,
+        "level": 0
+    }
+}

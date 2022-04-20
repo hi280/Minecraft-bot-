@@ -1,0 +1,14 @@
+{
+    "0": {
+        "sources": "wooden_pickaxe"
+    },
+    "1": {
+        "sources": "stone_pickaxe"
+    },
+    "2": {
+        "sources": "iron_pickaxe"
+    },
+    "3": {
+        "sources": "diamond_pickaxe"
+    }
+}
